@@ -1,6 +1,7 @@
-# Hello!
+# Alex - `@rezghost`
+## Software Engineer
 
-My name is Alex, I'm a software engineer based in the U.S and I enjoy writing code. I put these little icons below because I think they look neat.
+👋 Hello, my name is Alex, I'm a software engineer based in the U.S. and I enjoy writing code. I put these little icons below because I think they look neat. I'm always interested in learning something new, while I don't 
 
 ## Currently working with 
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
