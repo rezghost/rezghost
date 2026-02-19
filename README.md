@@ -22,5 +22,7 @@
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=flast-square&logo=latex&logoColor=white)" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="Octopus" src="https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white" />
 </p>
