@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Alex</h1>
-<p>I'm currently working <a href="https://www.dunnhumby.com/">@Dunnhumby</a> as a platform engineer, where I get to help design and build our core services and infrastructure. I recently deleted my old github and am in the process of migrating some old projects to here (although many have been lost to the ether).</p>
+<p>I'm currently working <a href="https://www.dunnhumby.com/">@Dunnhumby</a> as a platform engineer where I get to help design and build our core services and infrastructure. I recently deleted my old github and am in the process of migrating some old projects to here (although many have been lost to the ether).</p>
 
 <h3>Stuff I Use:</h3>
 <p>
